@@ -72,7 +72,9 @@ These resources provide a foundation for developing **reproducible pancreatic tu
 Explore the PanTS reproduction activities based on publicly available source code, research resources, and supporting information. The corresponding materials and experiments are organized into the given folders. 
 
 <div align="center">
-
 <img src="./Logo/CHI-Lab.png" alt="Computational Healthcare Intelligence Lab (CHI Lab)" width="120"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./Logo/ICRI-STE.png" alt="International Council for Research & Innovation in STE (ICRI-STE)" width="120"/>
+**CHI Lab | Computational Healthcare Intelligence | Dry Lab**
+
+*From Pancreatic Cancer Segmentation to Computational Intelligence*
