@@ -79,7 +79,7 @@ Explore the PanTS reproduction activities based on publicly available source cod
 
 
 
-This project forms part of the CHI Lab's computational healthcare and cancer research activities, integrating **systems-oriented computational research, cancer genomics, and artificial intelligence/deep learning**.
+This project forms part of the CHI Lab's computational healthcare and cancer research activities, integrating **systems-oriented computational research, artificial intelligence/deep learning, and Virtual Lab for AI-Driven Agentic System**.
 
 ---
 <div align="center">
