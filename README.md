@@ -74,8 +74,12 @@ These resources provide a foundation for developing **reproducible pancreatic tu
 [![ICRI-STE Website](https://img.shields.io/badge/Website-ICRI--STE-00A6A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://icriste.com)
 
 
-
 This project forms part of the CHI Lab's computational healthcare and cancer research activities, integrating **Systems-Oriented Computational Research, Artificial Intelligence/Deep Learning, and Virtual Lab for AI-Driven Agentic System**.
+
+| CHI Lab Repository | Access |
+|:---|:---|
+| **CHI Lab — Public Repository Research Direction on Pancreatic Cancer** | [![GitHub](https://img.shields.io/badge/GitHub-Open%20Science-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/partnerships2024/CHI-Lab-Research-Pancreatic-Cancer.git) |
+
 
 ---
 <div align="center">
