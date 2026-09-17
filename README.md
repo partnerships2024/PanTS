@@ -75,6 +75,7 @@ Explore the PanTS reproduction activities based on publicly available source cod
 <img src="./Logo/CHI-Lab.png" alt="Computational Healthcare Intelligence Lab (CHI Lab)" width="120"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./Logo/ICRI-STE.png" alt="International Council for Research & Innovation in STE (ICRI-STE)" width="120"/>
+  
 **CHI Lab | Computational Healthcare Intelligence | Dry Lab**
 
 *From Pancreatic Cancer Segmentation to Computational Intelligence*
