@@ -88,5 +88,5 @@ This project forms part of the CHI Lab's computational healthcare and cancer res
 <img src="./Logo/ICRI-STE.png" alt="International Council for Research & Innovation in STE (ICRI-STE)" width="120"/>
   
 **CHI Lab | Computational Healthcare Intelligence | Dry Lab**
-
+**International Council for Research & Innovation in STE (ICRI-STE)**
 *From Pancreatic Cancer Segmentation to Computational Intelligence*
