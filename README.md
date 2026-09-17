@@ -68,10 +68,6 @@ Pedro R. A. S. Bassi, Wenxuan Li, Jieneng Chen, Zheren Zhu, Tianyu Lin, Sergio D
 
 These resources provide a foundation for developing **reproducible pancreatic tumour segmentation pipelines**, combining published medical imaging methods with publicly available implementations. Our work builds upon these foundations while focusing on **reproduction, validation, and further development of AI-based pancreatic tumour segmentation methods**.
 
-## PanTS Reproduction Activities
-Explore the PanTS reproduction activities based on publicly available source code, research resources, and supporting information. The corresponding materials and experiments are organized into the given folders. 
-
-
 # CHI Lab Research
 
 [![CHI Lab](https://img.shields.io/badge/CHI%20Lab-Research-0A7EA4?style=for-the-badge)](https://icriste.com/computational-healthcare-intelligence-lab-chi-lab/)
