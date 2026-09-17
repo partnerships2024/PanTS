@@ -70,11 +70,10 @@ These resources provide a foundation for developing **reproducible pancreatic tu
 
 # CHI Lab Research
 
+This project forms part of the CHI Lab's computational healthcare and cancer research activities, integrating **Systems-Oriented Computational Research, Artificial Intelligence/Deep Learning, and Virtual Lab for AI-Driven Agentic System**.
+
 [![CHI Lab](https://img.shields.io/badge/CHI%20Lab-Research-0A7EA4?style=for-the-badge)](https://icriste.com/computational-healthcare-intelligence-lab-chi-lab/)
 [![ICRI-STE Website](https://img.shields.io/badge/Website-ICRI--STE-00A6A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://icriste.com)
-
-
-This project forms part of the CHI Lab's computational healthcare and cancer research activities, integrating **Systems-Oriented Computational Research, Artificial Intelligence/Deep Learning, and Virtual Lab for AI-Driven Agentic System**.
 
 | CHI Lab Repository | Access |
 |:---|:---|
