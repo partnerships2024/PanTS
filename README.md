@@ -87,7 +87,6 @@ Explore the PanTS reproduction activities based on publicly available source cod
 <div align="center">
 
 <img src="CHI-Lab.png" alt="Computational Healthcare Intelligence Lab (CHI Lab)" width="120"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="ICRI-STE.png" alt="International Council for Research & Innovation in STE (ICRI-STE)" width="120"/>
 
 **CHI Lab | Computational Healthcare Intelligence | Dry Lab**
