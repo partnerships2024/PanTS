@@ -40,8 +40,33 @@ Dice, IoU, precision, recall and HD95.
 - `pilot_summary_metrics.csv` — mean metrics
 - `predictions/` — test predictions
 
-## PanTS reference
-https://github.com/MrGiovanni/PanTS
+## Motivation
 
-The official repository describes PanTS-tr (9,000 cases), PanTS-te (901 cases), and a full data download requiring about 300 GB. This pilot uses a smaller accessible dataset because the full dataset is not practical for this reproduction run.
+Our pancreatic tumour segmentation research is motivated by recent advances in **medical image segmentation, AI-driven radiology, and reproducible open-source research**. The following resources provide key methodological, scientific, and implementation foundations for this work.
 
+| **Researcher / Resource** | **Research Papers & Open-Source Implementations** |
+|:---|:---|
+| **Prof. Dr. Zongwei Zhou** | [Website](https://www.zongweiz.com) · [PanTS GitHub Repository](https://github.com/MrGiovanni/PanTS) |
+| **Relevant Research Papers** | [Paper 1](https://arxiv.org/abs/2507.01291) · [Paper 2](https://arxiv.org/abs/1912.05074) · [Paper 3](https://arxiv.org/abs/2102.04306) · [Paper 4](https://arxiv.org/abs/2203.00131) · [Paper 5](https://arxiv.org/html/2604.20981v1) |
+
+### Key Reference: Learning Segmentation from Radiology Reports
+
+**Learning Segmentation from Radiology Reports**  
+Pedro R. A. S. Bassi, Wenxuan Li, Jieneng Chen, Zheren Zhu, Tianyu Lin, Sergio Decherchi, Andrea Cavalli, Kang Wang, Yang Yang, Alan Yuille, and Zongwei Zhou.  
+
+**Johns Hopkins University** · **MICCAI 2025 — Best Paper Award (Runner-up)**
+
+**Research & Implementation Resources**
+
+[![Paper](https://img.shields.io/badge/Paper-PDF-purple?style=for-the-badge)](https://www.cs.jhu.edu/~zongwei/publication/bassi2025learning.pdf)
+[![Poster](https://img.shields.io/badge/Poster-PDF-blue?style=for-the-badge)](https://www.cs.jhu.edu/~zongwei/poster/bassi2025miccai_rsuper.pdf)
+[![JHU News](https://img.shields.io/badge/JHU-News-green?style=for-the-badge)](https://www.cs.jhu.edu/news/for-ai-tumor-detection-a-picture-isnt-always-worth-a-thousand-words/)
+[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/7pamG9DDSJw?si=-376z03g832UyTKB)
+[![Oral Presentation](https://img.shields.io/badge/Oral-RSNA-orange?style=for-the-badge)](https://youtu.be/r11X39fH-yU?si=ZOBlHMo1CvN9aVzb)
+
+### Why This Work Matters
+
+These resources provide a foundation for developing **reproducible pancreatic tumour segmentation pipelines**, combining published medical imaging methods with publicly available implementations. Our work builds upon these foundations while focusing on **reproduction, validation, and further development of AI-based pancreatic tumour segmentation methods**.
+
+## PanTS Reproduction Activities
+Explore the PanTS reproduction activities based on publicly available source code, research resources, and supporting information. The corresponding materials and experiments are organized into the given folders. 
